@@ -85,11 +85,7 @@ DATABASES = {
     }
 }
 
-# axios.post('url', data, {
-#     headers: {
-#         'Authorization': Token e10c2c2b2eeaa598684336cfb3ca09e986c4fb5d
-#     }
-# })
+
 
 
 # Password validation
