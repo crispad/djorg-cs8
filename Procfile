@@ -1,1 +1,1 @@
-web:gunicorn djorg.wsgi
+web:gunicorn djorg-cs8.wsgi
